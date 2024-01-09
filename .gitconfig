@@ -1,0 +1,6 @@
+[user]
+	name = Ben
+	email = benpapineauwpg@gmail.com
+[credential]
+	helper = manager-core
+	modalprompt = true
